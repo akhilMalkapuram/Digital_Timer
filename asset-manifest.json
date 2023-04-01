@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Digital_Timer/static/css/main.f68eb8a5.css",
+    "main.js": "/Digital_Timer/static/js/main.059ea1ac.js",
+    "static/js/787.0c3f432a.chunk.js": "/Digital_Timer/static/js/787.0c3f432a.chunk.js",
+    "index.html": "/Digital_Timer/index.html",
+    "main.f68eb8a5.css.map": "/Digital_Timer/static/css/main.f68eb8a5.css.map",
+    "main.059ea1ac.js.map": "/Digital_Timer/static/js/main.059ea1ac.js.map",
+    "787.0c3f432a.chunk.js.map": "/Digital_Timer/static/js/787.0c3f432a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f68eb8a5.css",
+    "static/js/main.059ea1ac.js"
+  ]
+}
